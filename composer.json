@@ -1,0 +1,9 @@
+{
+  "name": "Practical5",
+  "description": "practical 5",
+  "require": {
+    "php": ">=5.6",
+    "guzzlehttp/guzzle": ">5.0"
+  },
+  "minimum-stability": "stable"
+}
